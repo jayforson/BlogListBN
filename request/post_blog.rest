@@ -1,10 +1,9 @@
 POST http://localhost:3001/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheWZvcnNvbiIsImlkIjoiNjA1NDVmNDU3ZTI5N2MyOWQ0MGVkMjdiIiwiaWF0IjoxNjE2MTQzNzQ3fQ.lrrdK3ya3tHoJiHP4kBfZm6k-qMmf_G9nz09Kbl2SCA
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheWZvcnNvbiIsImlkIjoiNjA1NDVmNDU3ZTI5N2MyOWQ0MGVkMjdiIiwiaWF0IjoxNjE2MTY1MjQ5fQ.2f3vgnz2_3UKlbj3zt-zCc3N-w8hp578yqzGZh_xWvQ
 
 {
-    "title": "asdfb",
-    "author": "Jayson Sun",
-    "url": "url",
-    "likes": 0
+    "title": "jjjjjjjjjj",
+    "author": "aaaaa",
+    "url": "ssss"
 }
